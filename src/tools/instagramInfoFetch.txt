@@ -1,0 +1,8 @@
+id token instagram:
+
+IGQVJYdjRIZAlNNa19FUDVDVWZAfVkRqVno2X280T00yTC1seXl5RjdhSjNPcHdDYnB1RmRxTGlrSi1tYzU4UDVKNU9nb3NwTkhrMDROTWw5elJOb0VfVGlGZAmpybGxLR3JIdHBldXA3WXZAoSmFYTHNIcQZDZD
+
+
+URL para obtener info de Instagram con el TOKEN
+
+https://graph.instagram.com/me/media?fields=id,caption,media_url&access_token=IGQVJYdjRIZAlNNa19FUDVDVWZAfVkRqVno2X280T00yTC1seXl5RjdhSjNPcHdDYnB1RmRxTGlrSi1tYzU4UDVKNU9nb3NwTkhrMDROTWw5elJOb0VfVGlGZAmpybGxLR3JIdHBldXA3WXZAoSmFYTHNIcQZDZD
