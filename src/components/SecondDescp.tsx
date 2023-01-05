@@ -55,7 +55,7 @@ const SecondDescp = () => {
         <SecondDescpContainer>
                 {/* <Logo src={logo} alt="" /> */}
                         <h3 className="m-0">LASTESTS SOCIAL MEDIA MOVEMENT</h3>
-                        <LikeCounter/>
+                        {/* <LikeCounter/> */}
                     <div className="news-box">
                         <div className="news-video">
                                 <YouTubeLogo/>

@@ -110,6 +110,7 @@ const FooterContainer = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
+    background: ${props => props.theme.primary} ;
 
     .hide{ 
         @media (max-width: 991px) {
@@ -127,7 +128,7 @@ const FooterContainer = styled.div`
         border: none;        
         text-align: center;
         height: 50vh;
-        background: ${props => props.theme.primary} ;
+        background: inherit ;
         color: ${props => props.theme.fontFour};
         border-radius: 0;
         padding: 10px;
